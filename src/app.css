@@ -1,0 +1,16 @@
+.se-dialog-content {
+    margin-top: 100px !important;
+}
+
+.test-highlighted-text {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    background-color: #fae89d;
+}
+
+.test-highlighted-text-hover {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    background-color: #fada53;
+    
+}

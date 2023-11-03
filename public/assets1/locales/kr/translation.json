@@ -1,0 +1,6 @@
+{
+    "app_title": "타이틀",
+    "language": "언어",
+    "welcome_message": "환영합니다",
+    "days_since_release": "it's been {{number_of_days}} days since this video was released"
+}
